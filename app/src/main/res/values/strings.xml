@@ -1,3 +1,107 @@
 <resources>
-    <string name="app_name">Bhakti-Sangrahalay</string>
+    <string name="app_name">Bhakti Sangrahalay</string>
+    <string name="view_all"><u>सभी देखें</u></string>
+    <string name="aartiyan">आरतियां</string>
+    <string name="chalisha">चालीसा</string>
+    <string name="other">अन्य</string>
+    <string name="hanuman_ji">हनुमान जी</string>
+    <string name="ganesh_ji">गणेश जी </string>
+    <string name="durga_ji">दुर्गा जी</string>
+    <string name="shiv_ji">शंकर जी</string>
+    <string name="shyam_ji">श्याम जी</string>
+    <string name="santoshi_mata">संतोषी माता</string>
+    <string name="lakshmi_mata">लक्ष्मी माता</string>
+    <string name="srasvati_mata">सरस्वती माता</string>
+    <string name="aarti">आरती</string>
+
+
+    <string name="sampurn_sunder_kaand">सम्पूर्ण\nसुंदरकांड</string>
+
+    <string name="hanuman_cahlisa">हनुमान\nचालीसा</string>
+    <string name="ganesh_cahlisa">गणेश\nचालीसा </string>
+    <string name="durga_cahlisa">दुर्गा\nचालीसा</string>
+    <string name="shiv_cahlisa">शंकर\nचालीसा</string>
+
+    <string name="dharmik_kathayen">धार्मिक\nकथाएं</string>
+    <string name="vart_kathayen">व्रत\nकथाएं</string>
+    <string name="vart_kathayen1">व्रत कथाएं</string>
+    <string name="calendar">कैलेंडर</string>
+    <string name="mantra_sangrah">मंत्र \nसंग्रह</string>
+    <string name="mantra">मंत्र</string>
+
+    <string name="Shortha">सोरठा</string>
+    <string name="Chhand">छंद</string>
+    <string name="Chopai">चौपाई</string>
+    <string name="Doha">दोहा</string>
+    <string name="Sunder_kand">सुंदरकांड</string>
+    <string name="Dash_board">डैशबोर्ड</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="lakshmi_cahlisa">लक्ष्मी चालीसा</string>
+
+    <!--  <string name="gangaur_vart_katha">गणगौर व्रतकथा</string>
+     -->
+    <string name="devuthani_vart_katha"> देवउठनी एकादशी व्रतकथा </string>
+    <string name="purnmashi_vart_katha"> पूर्णमासी व्रत कथा </string>
+    <string name="solah_somvar_vart_katha">सोलह सोमवार व्रत कथा </string>
+    <!--<string name="vat_savitri_vart_katha">वट सावित्री व्रत कथा</string>-->
+    <string name="chath_puja_vart_katha">छठ पूजा व्रत कथा</string>
+
+
+    <string name="hanumanji_ki_katha">हनुमान: बालपन, शिक्षा एवं शाप</string>
+    <string name="navratri_katha">नवरात्री की कथा</string>
+    <string name="kuru_ka_janm_katha">कुरु का जन्म</string>
+    <string name="shri_krishan_katha">श्रीकृष्ण दौड़े चले आये</string>
+    <string name="kunti_ka_tyag_katha">कुंती का त्याग</string>
+    <string name="janesh_ji_thag_katha">जब ठगे गए गणेशजी</string>
+
+    <string name="saptahik_vart_katha">साप्ताहिक व्रत कथा</string>
+    <string name="vishisht_vart_katha">विशिष्ट व्रत एवं कथा</string>
+    <string name="ekadashi_vart_katha">एकादशी व्रत कथा</string>
+    <string name="navratri_vart_katha">नवरात्री व्रत कथा</string>
+    <string name="satyanarayan_vart_katha">सत्यनारायण व्रत कथा</string>
+
+    <string name="sunday_vart_katha">रविवार व्रत कथा</string>
+    <string name="monday_vart_katha">सोमवार व्रत कथा</string>
+    <string name="tuesday_vart_katha">मंगलवार व्रत कथा</string>
+    <string name="wednesday_vart_katha">बुधवार व्रत कथा</string>
+    <string name="thrusday_vart_katha">गुरुवार व्रत कथा</string>
+    <string name="friday_vart_katha">शुक्रवार व्रत कथा</string>
+    <string name="saturday_vart_katha">शनिवार व्रत कथा</string>
+
+
+    <string name="ahhoi_vart_katha">अहोई व्रत कथा</string>
+    <string name="bhai_dooj_vart_katha"> भैया दूज व्रत कथा</string>
+    <string name="gangaur_vart_katha">गणगौर व्रत कथा</string>
+    <string name="goverdhan_vart_katha"> गोवेर्धन व्रत कथा</string>
+    <string name="hartalika_teez_vart_katha"> हरतालिका तीज व्रत कथा</string>
+    <string name="holika_vart_katha"> होलिका व्रत कथा</string>
+    <string name="karvachauth_vart_katha">करवाचौथ व्रत कथा</string>
+    <string name="mahalakshmi_vart_katha">महालक्ष्मी व्रत कथा</string>
+    <string name="mangla_gauri_vart_katha">मंगला गौरी व्रत कथा</string>
+    <string name="narsingh_jayanti_vart_katha"> नरसिंघ जयंती व्रत कथा</string>
+    <string name="pradosh_vart_katha"> प्रदोष व्रत कथा</string>
+    <string name="sankat_chturthi_vart_katha"> श्री गणेश संकट चतुर्थी व्रत कथा</string>
+    <string name="santoshi_mata_vart_katha"> संतोषी माता व्रत कथा</string>
+    <string name="satya_narayan_vart_katha"> सत्यनारायण व्रत कथा</string>
+    <string name="sravan_somvar_vart_katha"> श्रावण सोमवार व्रत कथा</string>
+    <string name="sarad_purnima_vart_katha"> शरद पूर्णिमा व्रत कथा</string>
+    <string name="shiv_ratri_vart_katha"> शिवरात्रि व्रत कथा</string>
+    <string name="vat_savitri_vart_katha"> वट सावित्री व्रत कथा</string>
+    <string name="katha">कथा</string>
+    <string name="pauranik_katha">पौराणिक कथाएं</string>
+    <string name="aadhyatmik_katha">आध्यात्मिक कथाएं</string>
+    <string name="vishnu_puran"> विष्णु पुराण</string>
+    <string name="shiv_puran">शिव पुराण</string>
+
+    <string name="app_share">एप्लीकेशन शेयर करें</string>
+    <string name="app_rate"> एप्लीकेशन रेट करें</string>
+    <string name="about_us"> हमारे बारे में</string>
+    <string name="suggestion"> सुझाव</string>
+    <string name="shlok">  वक्रतुण्ड महाकाय सूर्यकोटि समप्रभ।\nनिर्विघ्नं कुरु मे देव सर्वकार्येषु सर्वदा॥</string>
+    <string name="panchan_shopan_manglacharan">  पंचम सोपान-मंगलाचरण</string>
+    <string name="slok"> श्लोक</string>
+    <string name="sunder_kaand">सुंदरकांड</string>
+    <string name="internet_problem">इंटरनेट उपलब्ध नहीं, कृपया डिवाइस के इंटरनेट की जांच करें !</string>
+
 </resources>

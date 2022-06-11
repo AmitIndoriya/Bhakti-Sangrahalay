@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="god_name_list">
+        <item>@string/ganesh_ji</item>
+        <item>@string/hanuman_ji</item>
+        <item>@string/durga_ji</item>
+        <item>@string/shiv_ji</item>
+        <item>@string/shyam_ji</item>
+        <item>@string/santoshi_mata</item>
+        <item>@string/lakshmi_mata</item>
+        <item>@string/srasvati_mata</item>
+    </string-array>
+    <string-array name="god_icon_list">
+        <item>@drawable/ganeshji_aarti_image</item>
+        <item>@drawable/hanumaanji_aarti_image</item>
+        <item>@drawable/durgaji_aarti_image</item>
+        <item>@drawable/shivji_aarti_image</item>
+        <item>@drawable/shyamji_aarti_image</item>
+        <item>@drawable/santoshi_maa_aarti_image</item>
+        <item>@drawable/lakshmi_ma_aarti_image</item>
+        <item>@drawable/sarsvati_ma_aarti_image</item>
+    </string-array>
+    <string-array name="aarti_row_file_list">
+        <item>@raw/ganeshji_ki_aarti</item>
+        <item>@raw/hanumanji_ki_aarti</item>
+        <item>@raw/durgaji_ki_aarti</item>
+        <item>@raw/shivji_ki_aarti</item>
+        <item>@raw/shyamji_ki_aarti</item>
+        <item>@raw/santoshi_ma_ki_aarti</item>
+        <item>@raw/lakshmi_ji_ki_aarti</item>
+        <item>@raw/sraswati_ji_ki_aarti</item>
+    </string-array>
+    <string-array name="chalish_title_list">
+        <item>@string/ganesh_cahlisa</item>
+        <item>@string/hanuman_cahlisa</item>
+        <item>@string/durga_cahlisa</item>
+        <item>@string/shiv_cahlisa</item>
+        <item>@string/lakshmi_cahlisa</item>
+    </string-array>
+    <string-array name="chalish_icon_list">
+        <item>@drawable/ganeshji_chalisha</item>
+        <item>@drawable/hanuman_chalisha</item>
+        <item>@drawable/durga_chalisha</item>
+        <item>@drawable/shiv_chalisha</item>
+        <item>@drawable/lakshmi_chalisha_image</item>
+    </string-array>
+    <string-array name="chalish_raw_file_list">
+        <item>@raw/ganesh_chalisha</item>
+        <item>@raw/hanuman_chalisha</item>
+        <item>@raw/durga_chalisha</item>
+        <item>@raw/shiv_chalisha</item>
+        <item>@raw/lakshmi_chalisha</item>
+    </string-array>
+
+    <string-array name="vrat_katha_list">
+        <item>@string/gangaur_vart_katha</item>
+        <item>@string/santoshi_mata_vart_katha</item>
+        <item>@string/devuthani_vart_katha</item>
+        <item>@string/purnmashi_vart_katha</item>
+        <item>@string/solah_somvar_vart_katha</item>
+        <item>@string/vat_savitri_vart_katha</item>
+        <item>@string/chath_puja_vart_katha</item>
+    </string-array>
+    <string-array name="vart_katha_row_file_list">
+        <item>@raw/gangaur_katha</item>
+        <item>@raw/santoshi_mata_vart_katha</item>
+        <item>@raw/dev_uthani_ekadashi_vart_katha</item>
+        <item>@raw/puranmashi_vart_katha</item>
+        <item>@raw/solah_somvar_vart_katha</item>
+        <item>@raw/vat_savitri_katha</item>
+        <item>@raw/chath_puja_vart_katha</item>
+    </string-array>
+    <string-array name="adyatamik_kathaye_list">
+        <item>@string/hanumanji_ki_katha</item>
+        <item>@string/navratri_katha</item>
+        <item>@string/kuru_ka_janm_katha</item>
+        <item>@string/shri_krishan_katha</item>
+        <item>@string/kunti_ka_tyag_katha</item>
+        <item>@string/janesh_ji_thag_katha</item>
+    </string-array>
+    <string-array name="saptahik_vrat_katha_list">
+        <item>@string/sunday_vart_katha</item>>
+        <item>@string/monday_vart_katha</item>>
+        <item>@string/tuesday_vart_katha</item>>
+        <item>@string/wednesday_vart_katha</item>>
+        <item>@string/thrusday_vart_katha</item>>
+        <item>@string/friday_vart_katha</item>
+        <item>@string/saturday_vart_katha</item>>
+    </string-array>
+    <string-array name="vishisht_vrat_katha_list">
+        <item>@string/ahhoi_vart_katha</item>
+        <item>@string/bhai_dooj_vart_katha</item>
+        <item>@string/gangaur_vart_katha</item>
+        <item>@string/goverdhan_vart_katha</item>
+        <item>@string/hartalika_teez_vart_katha</item>
+        <item>@string/holika_vart_katha</item>
+        <item>@string/karvachauth_vart_katha</item>
+        <item>@string/mahalakshmi_vart_katha</item>
+        <item>@string/mangla_gauri_vart_katha</item>
+        <item>@string/narsingh_jayanti_vart_katha</item>
+        <item>@string/pradosh_vart_katha</item>
+        <item>@string/sankat_chturthi_vart_katha</item>
+        <item>@string/santoshi_mata_vart_katha</item>
+        <item>@string/satya_narayan_vart_katha</item>
+        <item>@string/sravan_somvar_vart_katha</item>
+        <item>@string/sarad_purnima_vart_katha</item>
+        <item>@string/shiv_ratri_vart_katha</item>
+        <item>@string/vat_savitri_vart_katha</item>
+    </string-array>
+
+    <string-array name="pauranik_katha_name_list">
+        <item>@string/pauranik_katha</item>
+        <item>@string/aadhyatmik_katha</item>
+        <item>@string/vishnu_puran</item>
+        <item>@string/shiv_puran</item>
+    </string-array>
+    <string-array name="pauranik_katha_icon_list">
+        <item>@drawable/pauranik_katha_image</item>
+        <item>@drawable/aadhyatmik_image</item>
+        <item>@drawable/vishnu_puran_image</item>
+        <item>@drawable/shivpuran_image</item>
+    </string-array>
+    <string-array name="pauranik_katha_row_file_list">
+        <item>@raw/pauranik_katha_list</item>
+        <item>@raw/aadhytmik_katha_list</item>
+        <item>@raw/vishnu_puran_list</item>
+        <item>@raw/shiv_puran_list</item>
+    </string-array>
+    <integer-array name="aarti_ids">
+        <item>101</item>
+        <item>102</item>
+        <item>103</item>
+        <item>104</item>
+        <item>105</item>
+        <item>106</item>
+        <item>107</item>
+        <item>108</item>
+    </integer-array>
+    <integer-array name="chalisha_ids">
+        <item>201</item>
+        <item>202</item>
+        <item>203</item>
+        <item>204</item>
+        <item>205</item>
+    </integer-array>
+</resources>
