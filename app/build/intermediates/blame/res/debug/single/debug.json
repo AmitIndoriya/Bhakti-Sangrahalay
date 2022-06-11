@@ -1,0 +1,670 @@
+[
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_om.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/om.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_app_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_sukra_grah_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/sukra_grah_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_hanuman_chalisha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/hanuman_chalisha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_saptahik_vrat_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/saptahik_vrat_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_shyamji_aarti_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/shyamji_aarti_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_vat_savitri_katha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/vat_savitri_katha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_next_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/next_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_santoshi_ma_ki_aarti.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/santoshi_ma_ki_aarti.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_katha_desc_activity.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/katha_desc_activity.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_aarti_desc_activity.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/aarti_desc_activity.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_sunder_kaand.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/sunder_kaand.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_next_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/next_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_pause_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/pause_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/font_laila_bold.ttf.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/font/laila_bold.ttf"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_surya_dev_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/surya_dev_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_shivpuran_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/shivpuran_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_shani_dev_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/shani_dev_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_aadhyatmik_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/aadhyatmik_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_activity_pauranik_katha_home.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/activity_pauranik_katha_home.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_back_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/back_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_pauranik_list_item.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/pauranik_list_item.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_puranmashi_vart_katha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/puranmashi_vart_katha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_durga_chalisha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/durga_chalisha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_back_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/back_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_shivji_ki_aarti.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/shivji_ki_aarti.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_next_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/next_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_hanumaanji_aarti_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/hanumaanji_aarti_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_play_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/play_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_durgaji_aarti_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/durgaji_aarti_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_lakshmi_chalisha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/lakshmi_chalisha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_back_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/back_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_dharmik_katha_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/dharmik_katha_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_katha_list_item_layout.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/katha_list_item_layout.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_lakshmi_ma_aarti_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/lakshmi_ma_aarti_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_ganeshji_aarti_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/ganeshji_aarti_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_chalisa_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/chalisa_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_sunder.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/sunder.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_hanuman_chalisha.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/hanuman_chalisha.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_gayatri_maa_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/gayatri_maa_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_durga_chalisha.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/durga_chalisha.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_vishnu_puran_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/vishnu_puran_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_fragment_dashboard.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_next_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/next_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_aarti_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/aarti_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_hanumanji_sunderkand_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/hanumanji_sunderkand_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_next_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/next_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_back_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/back_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_rahu_grah_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/rahu_grah_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_katha_activity_layout.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/katha_activity_layout.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_play_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/play_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_next_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/next_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_back_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/back_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_next_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/next_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_next_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/next_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_frag_dashboard_cat_item3.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/frag_dashboard_cat_item3.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_guru_grah_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/guru_grah_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_back_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/back_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_next_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/next_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_pause_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/pause_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_aadhytmik_katha_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/aadhytmik_katha_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_back_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/back_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_sunder_kand.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/sunder_kand.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_back_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/back_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_more_list_item_layout.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/more_list_item_layout.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_play_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/play_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_back_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/back_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_red_rect.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/red_rect.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_lakshmi_ji_ki_aarti.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/lakshmi_ji_ki_aarti.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_sunder_kand_images1.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/sunder_kand_images1.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_activity_dashboard.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_shiv_chalisha.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/shiv_chalisha.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_shyamji_ki_aarti.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/shyamji_ki_aarti.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_shiv_puran_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/shiv_puran_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_sunder_kand_list_item.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/sunder_kand_list_item.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_durgaji_ki_aarti.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/durgaji_ki_aarti.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_circular.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/circular.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_nav_header_main.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/nav_header_main.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_shiv_chalisha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/shiv_chalisha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_vishnu_puran_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/vishnu_puran_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_pauranik_katha_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/pauranik_katha_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_white_circle.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/white_circle.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_ekadashi_vrat_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/ekadashi_vrat_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_sunder_kaand_act_layout.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/sunder_kaand_act_layout.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_style_circular.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/style_circular.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_mantra_layout.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/mantra_layout.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_sunder_kand_fragment_layout.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/sunder_kand_fragment_layout.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_budh_grah_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/budh_grah_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_horizontal_divider.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/horizontal_divider.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_lakshmi_chalisha_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/lakshmi_chalisha_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_mantra_list_item.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/mantra_list_item.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_next_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/next_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_dashboard_main.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/dashboard_main.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_mangal_grah_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/mangal_grah_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_pauranik_katha_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/pauranik_katha_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_sunder_kand_home.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/sunder_kand_home.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_hanumanji_ki_aarti.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/hanumanji_ki_aarti.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_bg15.gif.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/bg15.gif"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_next_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/next_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_sarsvati_ma_aarti_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/sarsvati_ma_aarti_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_circle_with_white_bg.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/circle_with_white_bg.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/font_laila_medium.ttf.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/font/laila_medium.ttf"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_santoshi_mata_vart_katha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/santoshi_mata_vart_katha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_sraswati_ji_ki_aarti.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/sraswati_ji_ki_aarti.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_ganeshji_chalisha.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/ganeshji_chalisha.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_back_arrow_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/back_arrow_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_back_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/back_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_kalash.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/kalash.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_navratri_katha_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/navratri_katha_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_gangaur_katha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/gangaur_katha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_feedback.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/feedback.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_frag_dashboard_cat_item1.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/frag_dashboard_cat_item1.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_chandra_grah_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/chandra_grah_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_back_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/back_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_rate_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/rate_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_next_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/next_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_pause_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/pause_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_next_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxxhdpi/next_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_ketu_grah_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/ketu_grah_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_back_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/back_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_vishisht_vrat_katha_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/vishisht_vrat_katha_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_back_icon_24.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/back_icon_24.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_circle_button_sound_notif_shape.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/circle_button_sound_notif_shape.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_sunder_kand_image_default1.webp.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/sunder_kand_image_default1.webp"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_pause_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/pause_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_book.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/book.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_more_item_activity_layout.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/more_item_activity_layout.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_dev_uthani_ekadashi_vart_katha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/dev_uthani_ekadashi_vart_katha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_gredient_circle.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/gredient_circle.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_ganeshji_ki_aarti.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/ganeshji_ki_aarti.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_ganesh_chalisha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/ganesh_chalisha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_hanumanji.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/hanumanji.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_pause_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/pause_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_play_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/play_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_about_us_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/about_us_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_next_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/next_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_back_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/back_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_solah_somvar_vart_katha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/solah_somvar_vart_katha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_fragment_desc.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/fragment_desc.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_activity_vart_katha_home.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/activity_vart_katha_home.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_next_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/next_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-mdpi_play_icon_36.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-mdpi/play_icon_36.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_chath_puja_vart_katha.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/chath_puja_vart_katha.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_sunder_kand_home.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/sunder_kand_home.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_frag_dashboard_cat_item2.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/frag_dashboard_cat_item2.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_santoshi_maa_aarti_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/santoshi_maa_aarti_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_share_icon.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/share_icon.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_shivji_aarti_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/shivji_aarti_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/menu_dashboard_drawer.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/menu/dashboard_drawer.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_mantra_image.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/mantra_image.png"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/drawable_diya2.gif.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/drawable/diya2.gif"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/raw_mantra_list.json.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/raw/mantra_list.json"
+    },
+    {
+        "merged": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

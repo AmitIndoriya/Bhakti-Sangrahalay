@@ -1,0 +1,108 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.myapplication"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+11-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:5:5-77
+11-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:5:22-74
+12    <uses-permission android:name="android.permission.WAKE_LOCK" />
+12-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:6:5-68
+12-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:6:22-65
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:7:5-80
+13-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:7:22-77
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:8:5-81
+14-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:8:22-78
+15    <uses-permission android:name="android.permission.INTERNET" />
+15-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:9:5-67
+15-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:9:22-64
+16    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+16-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:10:5-79
+16-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:10:22-76
+17
+18    <application
+18-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:12:5-43:19
+19        android:name="com.bhakti_sangrahalay.MyApplication"
+19-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:13:9-38
+20        android:allowBackup="true"
+20-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:14:9-35
+21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+21-->[androidx.core:core:1.3.1] /home/amit/.gradle/caches/transforms-2/files-2.1/bce26619668433456338131e9996af79/core-1.3.1/AndroidManifest.xml:24:18-86
+22        android:debuggable="true"
+23        android:icon="@mipmap/app_icon"
+23-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:15:9-40
+24        android:label="@string/app_name"
+24-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:16:9-41
+25        android:requestLegacyExternalStorage="true"
+25-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:17:9-52
+26        android:roundIcon="@mipmap/app_icon"
+26-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:18:9-45
+27        android:supportsRtl="true"
+27-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:19:9-35
+28        android:testOnly="true"
+29        android:theme="@style/AppTheme"
+29-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:20:9-40
+30        android:usesCleartextTraffic="true" >
+30-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:21:9-44
+31        <activity
+31-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:22:9-31:20
+32            android:name="com.bhakti_sangrahalay.activity.DashBoardActivity"
+32-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:23:13-55
+33            android:showOnLockScreen="true"
+33-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:24:13-44
+34            android:theme="@style/AppTheme.NoActionBar" >
+34-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:25:13-56
+35            <intent-filter>
+35-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:26:13-30:29
+36                <action android:name="android.intent.action.MAIN" />
+36-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:27:17-69
+36-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:27:25-66
+37
+38                <category android:name="android.intent.category.LAUNCHER" />
+38-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:29:17-77
+38-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:29:27-74
+39            </intent-filter>
+40        </activity>
+41        <activity android:name="com.bhakti_sangrahalay.activity.MoreItemActivity" />
+41-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:32:9-63
+41-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:32:19-60
+42        <activity android:name="com.bhakti_sangrahalay.activity.SunderKandActivity" />
+42-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:33:9-65
+42-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:33:19-62
+43        <activity android:name="com.bhakti_sangrahalay.activity.AartiDescActivityNew" />
+43-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:34:9-67
+43-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:34:19-64
+44        <activity android:name="com.bhakti_sangrahalay.activity.ChalishaDescActivityNew" />
+44-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:35:9-70
+44-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:35:19-67
+45        <activity android:name="com.bhakti_sangrahalay.activity.KathaActivity" />
+45-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:36:9-60
+45-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:36:19-57
+46        <activity android:name="com.bhakti_sangrahalay.activity.KathaDescActivity" />
+46-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:37:9-64
+46-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:37:19-61
+47        <activity android:name="com.bhakti_sangrahalay.activity.VartKathaHomeActivity" />
+47-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:38:9-68
+47-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:38:19-65
+48        <activity android:name="com.bhakti_sangrahalay.activity.PauranikKathaHomeActivity" />
+48-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:39:9-72
+48-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:39:19-69
+49        <activity android:name="com.bhakti_sangrahalay.activity.MantraActivity" />
+49-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:40:9-61
+49-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:40:19-58
+50
+51        <service android:name="com.bhakti_sangrahalay.service.DownLoadFileServiceNew" />
+51-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:41:9-67
+51-->/home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:41:18-64
+52    </application>
+53
+54</manifest>

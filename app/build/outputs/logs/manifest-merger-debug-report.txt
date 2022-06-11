@@ -1,0 +1,280 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/58643a85405e3cfa1c49ab2225413089/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/839b0dff1f7cb3a38934a0fec7eaecdb/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:3.0.3] /home/amit/.gradle/caches/transforms-2/files-2.1/40a10c86d6c900ed027e5e69e8472e0b/jetified-viewpagerdotsindicator-3.0.3/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/47b4bfcea0d2038722399e2b9e086ed0/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9503eb5ace8c6699db63085a89ae323f/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/25f7a0dc18de0a8def6567ede0fb6482/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9295d0f139b46fbae574f16cb3220010/jetified-circleimageview-3.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.mikhaellopez:circularimageview:4.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/c20b45791370cd70388f3181dd939228/jetified-circularimageview-4.2.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/73b53fe35f7955029878c45098c75736/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1beb4fc6a685e56df208e5675e88be83/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/a325c530b4bffaed29407e7ea6040625/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/056289766c4695738326765bcc9061fa/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/4cc7003e69d8309b9b6798239e688f37/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/caa5a5e7093482f9b6f83e4aef5a7f46/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/23153e9d176721c8542aa56115eedde9/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/2384504bd5eba7b7032c42a9f8636081/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1c4f01387b535bbee515a343fc84d9b5/transition-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/572aa3af9482b535926d9d996f4b99ba/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fe7b7fdf116f8e240fd957d114b72d2e/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/641fbf34d5de31946546acbcee832e64/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/06d21964f3a06fe498add3e52c98b087/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1e7a2868e79a2fddf246d6b9ae43f4d7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/354530237945e1d8f5ec663d00bdfdfc/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/6bf9c35d1f76920b4321a374a3f504c6/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/32f54b4a5817db3a88fb981a7abd746a/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7b347c24fa039e38026050a06b50ae9e/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/cbed466097f3c1a396f504ed4cab3067/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.1] /home/amit/.gradle/caches/transforms-2/files-2.1/bce26619668433456338131e9996af79/core-1.3.1/AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e3920339b7e025a1c04c215c25da2f59/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e59bccde8030cc406cf8c4327de84a55/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72ed03d6c4c316e12a578128d3576c29/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/889d58de9f7a3aea25cc82de58e1dae2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5d72e11346a2c1ddb69c97a75e48d046/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/62e0cd600f0fdae84f168395b7644fbc/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/16f7794963d3ef0da9c3f17c964495ce/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fbc8ca1622724541f3ec4798a4bdc70a/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/27f9dad7996410598f277fac12925d45/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/31e3256faa2d51a153ceea03ba760896/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/afba63f741b6ed244b86a47ba7ae688e/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/4bb0e1085fcbc621e22b96e261b5a915/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/539097f0deb4565838ba8f43d65c1ab0/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:1-45:12
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:5:22-74
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:6:22-65
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:9:5-67
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:9:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:10:5-79
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:10:22-76
+application
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:12:5-43:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/58643a85405e3cfa1c49ab2225413089/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/58643a85405e3cfa1c49ab2225413089/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/839b0dff1f7cb3a38934a0fec7eaecdb/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/839b0dff1f7cb3a38934a0fec7eaecdb/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:3.0.3] /home/amit/.gradle/caches/transforms-2/files-2.1/40a10c86d6c900ed027e5e69e8472e0b/jetified-viewpagerdotsindicator-3.0.3/AndroidManifest.xml:11:5-20
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:3.0.3] /home/amit/.gradle/caches/transforms-2/files-2.1/40a10c86d6c900ed027e5e69e8472e0b/jetified-viewpagerdotsindicator-3.0.3/AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9295d0f139b46fbae574f16cb3220010/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9295d0f139b46fbae574f16cb3220010/jetified-circleimageview-3.1.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/73b53fe35f7955029878c45098c75736/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/73b53fe35f7955029878c45098c75736/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] /home/amit/.gradle/caches/transforms-2/files-2.1/bce26619668433456338131e9996af79/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] /home/amit/.gradle/caches/transforms-2/files-2.1/bce26619668433456338131e9996af79/core-1.3.1/AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e3920339b7e025a1c04c215c25da2f59/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e3920339b7e025a1c04c215c25da2f59/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72ed03d6c4c316e12a578128d3576c29/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72ed03d6c4c316e12a578128d3576c29/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:17:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] /home/amit/.gradle/caches/transforms-2/files-2.1/bce26619668433456338131e9996af79/core-1.3.1/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:16:9-41
+	android:roundIcon
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:18:9-45
+	android:icon
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:15:9-40
+	android:allowBackup
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:20:9-40
+	android:usesCleartextTraffic
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:21:9-44
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:13:9-38
+activity#com.bhakti_sangrahalay.activity.DashBoardActivity
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:showOnLockScreen
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:24:13-44
+	android:theme
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:25:13-56
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:23:13-55
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:29:27-74
+activity#com.bhakti_sangrahalay.activity.MoreItemActivity
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:32:9-63
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:32:19-60
+activity#com.bhakti_sangrahalay.activity.SunderKandActivity
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:33:9-65
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:33:19-62
+activity#com.bhakti_sangrahalay.activity.AartiDescActivityNew
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:34:19-64
+activity#com.bhakti_sangrahalay.activity.ChalishaDescActivityNew
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:35:9-70
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:35:19-67
+activity#com.bhakti_sangrahalay.activity.KathaActivity
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:36:9-60
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:36:19-57
+activity#com.bhakti_sangrahalay.activity.KathaDescActivity
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:37:9-64
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:37:19-61
+activity#com.bhakti_sangrahalay.activity.VartKathaHomeActivity
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:38:9-68
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:38:19-65
+activity#com.bhakti_sangrahalay.activity.PauranikKathaHomeActivity
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:39:9-72
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:39:19-69
+activity#com.bhakti_sangrahalay.activity.MantraActivity
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:40:9-61
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:40:19-58
+service#com.bhakti_sangrahalay.service.DownLoadFileServiceNew
+ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:41:9-67
+	android:name
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml:41:18-64
+uses-sdk
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/58643a85405e3cfa1c49ab2225413089/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /home/amit/.gradle/caches/transforms-2/files-2.1/58643a85405e3cfa1c49ab2225413089/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/839b0dff1f7cb3a38934a0fec7eaecdb/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/839b0dff1f7cb3a38934a0fec7eaecdb/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:3.0.3] /home/amit/.gradle/caches/transforms-2/files-2.1/40a10c86d6c900ed027e5e69e8472e0b/jetified-viewpagerdotsindicator-3.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [com.tbuonomo.andrui:viewpagerdotsindicator:3.0.3] /home/amit/.gradle/caches/transforms-2/files-2.1/40a10c86d6c900ed027e5e69e8472e0b/jetified-viewpagerdotsindicator-3.0.3/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/47b4bfcea0d2038722399e2b9e086ed0/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/47b4bfcea0d2038722399e2b9e086ed0/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9503eb5ace8c6699db63085a89ae323f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9503eb5ace8c6699db63085a89ae323f/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/25f7a0dc18de0a8def6567ede0fb6482/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/25f7a0dc18de0a8def6567ede0fb6482/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9295d0f139b46fbae574f16cb3220010/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:3.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/9295d0f139b46fbae574f16cb3220010/jetified-circleimageview-3.1.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.mikhaellopez:circularimageview:4.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/c20b45791370cd70388f3181dd939228/jetified-circularimageview-4.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.mikhaellopez:circularimageview:4.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/c20b45791370cd70388f3181dd939228/jetified-circularimageview-4.2.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/73b53fe35f7955029878c45098c75736/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/73b53fe35f7955029878c45098c75736/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1beb4fc6a685e56df208e5675e88be83/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1beb4fc6a685e56df208e5675e88be83/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/a325c530b4bffaed29407e7ea6040625/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/a325c530b4bffaed29407e7ea6040625/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/056289766c4695738326765bcc9061fa/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/056289766c4695738326765bcc9061fa/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/4cc7003e69d8309b9b6798239e688f37/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/amit/.gradle/caches/transforms-2/files-2.1/4cc7003e69d8309b9b6798239e688f37/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/caa5a5e7093482f9b6f83e4aef5a7f46/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/caa5a5e7093482f9b6f83e4aef5a7f46/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/23153e9d176721c8542aa56115eedde9/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/23153e9d176721c8542aa56115eedde9/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/2384504bd5eba7b7032c42a9f8636081/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/2384504bd5eba7b7032c42a9f8636081/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1c4f01387b535bbee515a343fc84d9b5/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1c4f01387b535bbee515a343fc84d9b5/transition-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/572aa3af9482b535926d9d996f4b99ba/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/572aa3af9482b535926d9d996f4b99ba/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fe7b7fdf116f8e240fd957d114b72d2e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fe7b7fdf116f8e240fd957d114b72d2e/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/641fbf34d5de31946546acbcee832e64/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/641fbf34d5de31946546acbcee832e64/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/06d21964f3a06fe498add3e52c98b087/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/06d21964f3a06fe498add3e52c98b087/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1e7a2868e79a2fddf246d6b9ae43f4d7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/1e7a2868e79a2fddf246d6b9ae43f4d7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/354530237945e1d8f5ec663d00bdfdfc/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/354530237945e1d8f5ec663d00bdfdfc/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/6bf9c35d1f76920b4321a374a3f504c6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/6bf9c35d1f76920b4321a374a3f504c6/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/32f54b4a5817db3a88fb981a7abd746a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/32f54b4a5817db3a88fb981a7abd746a/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7b347c24fa039e38026050a06b50ae9e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/7b347c24fa039e38026050a06b50ae9e/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/cbed466097f3c1a396f504ed4cab3067/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/cbed466097f3c1a396f504ed4cab3067/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.1] /home/amit/.gradle/caches/transforms-2/files-2.1/bce26619668433456338131e9996af79/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] /home/amit/.gradle/caches/transforms-2/files-2.1/bce26619668433456338131e9996af79/core-1.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e3920339b7e025a1c04c215c25da2f59/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e3920339b7e025a1c04c215c25da2f59/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e59bccde8030cc406cf8c4327de84a55/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/e59bccde8030cc406cf8c4327de84a55/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72ed03d6c4c316e12a578128d3576c29/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/72ed03d6c4c316e12a578128d3576c29/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/889d58de9f7a3aea25cc82de58e1dae2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/889d58de9f7a3aea25cc82de58e1dae2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5d72e11346a2c1ddb69c97a75e48d046/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/5d72e11346a2c1ddb69c97a75e48d046/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/62e0cd600f0fdae84f168395b7644fbc/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/62e0cd600f0fdae84f168395b7644fbc/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/16f7794963d3ef0da9c3f17c964495ce/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/16f7794963d3ef0da9c3f17c964495ce/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fbc8ca1622724541f3ec4798a4bdc70a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/fbc8ca1622724541f3ec4798a4bdc70a/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/27f9dad7996410598f277fac12925d45/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/amit/.gradle/caches/transforms-2/files-2.1/27f9dad7996410598f277fac12925d45/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/31e3256faa2d51a153ceea03ba760896/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/31e3256faa2d51a153ceea03ba760896/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/afba63f741b6ed244b86a47ba7ae688e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/afba63f741b6ed244b86a47ba7ae688e/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/4bb0e1085fcbc621e22b96e261b5a915/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/4bb0e1085fcbc621e22b96e261b5a915/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/539097f0deb4565838ba8f43d65c1ab0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/amit/.gradle/caches/transforms-2/files-2.1/539097f0deb4565838ba8f43d65c1ab0/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+		ADDED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
+		INJECTED from /home/amit/Downloads/DemoProjects/BhaktiSangrahalay/app/src/main/AndroidManifest.xml
