@@ -17,12 +17,13 @@ object MediaPlayerSingleton {
     var mediaPlayer: MediaPlayer
     var currentPlayingSongId: Int = 0
     val playStatusLiveData = MutableLiveData<MusicPlayStausModel>()
-    val musicSeekBarProgressLiveData = MutableLiveData<MusicSeekBarProgress>()
+    var musicSeekBarProgressLiveData: MutableLiveData<MusicSeekBarProgress>
 
 
     init {
         Utility.printLog("Singleton initialized.")
         mediaPlayer = MediaPlayer()
+        musicSeekBarProgressLiveData = MutableLiveData<MusicSeekBarProgress>()
     }
 
     @DelicateCoroutinesApi
@@ -58,7 +59,7 @@ object MediaPlayerSingleton {
                 }
                 mediaPlayer.start()
                 playStatusLiveData.value = MusicPlayStausModel(songId, currentPlayingSongId, 1)
-                musicSeekBarProgressLiveData.value = MusicSeekBarProgress(currentPlayingSongId, 0)
+                //musicSeekBarProgressLiveData.value = MusicSeekBarProgress(currentPlayingSongId, 0)
                 currentPlayingSongId = songId
                 updateSeekBar()
                 updateDataHolder(songId, true, false)
