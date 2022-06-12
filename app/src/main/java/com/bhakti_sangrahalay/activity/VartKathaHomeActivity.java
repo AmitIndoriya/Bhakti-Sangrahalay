@@ -36,18 +36,18 @@ public class VartKathaHomeActivity extends BaseActivity implements View.OnClickL
         cardView2 = findViewById(R.id.cardview2);
         cardView3 = findViewById(R.id.cardview3);
         cardView4 = findViewById(R.id.cardview4);
-        cardView5 = findViewById(R.id.cardview5);
+        //cardView5 = findViewById(R.id.cardview5);
 
         textView1 = findViewById(R.id.textview1);
         textView2 = findViewById(R.id.textview2);
         textView3 = findViewById(R.id.textview3);
         textView4 = findViewById(R.id.textview4);
-        textView5 = findViewById(R.id.textview5);
+        //textView5 = findViewById(R.id.textview5);
         cardView1.setOnClickListener(this);
         cardView2.setOnClickListener(this);
         cardView3.setOnClickListener(this);
         cardView4.setOnClickListener(this);
-        cardView5.setOnClickListener(this);
+        //cardView5.setOnClickListener(this);
 
         setTitle(resources.getString(R.string.vart_kathayen1));
         setTypeface();
@@ -74,10 +74,10 @@ public class VartKathaHomeActivity extends BaseActivity implements View.OnClickL
                 bundle.putInt("resId", R.raw.navratri_katha_list);
                 bundle.putString("title", resources.getString(R.string.navratri_vart_katha));
                 break;
-            case R.id.cardview5:
+            /*case R.id.cardview5:
                 bundle.putInt("resId", R.raw.saptahik_vrat_list);
                 bundle.putString("title", resources.getString(R.string.satyanarayan_vart_katha));
-                break;
+                break;*/
         }
         Intent intent = new Intent(VartKathaHomeActivity.this, KathaActivity.class);
         intent.putExtras(bundle);
@@ -90,6 +90,6 @@ public class VartKathaHomeActivity extends BaseActivity implements View.OnClickL
         textView2.setTypeface(mediumTypeface);
         textView3.setTypeface(mediumTypeface);
         textView4.setTypeface(mediumTypeface);
-        textView5.setTypeface(mediumTypeface);
+        //textView5.setTypeface(mediumTypeface);
     }
 }
