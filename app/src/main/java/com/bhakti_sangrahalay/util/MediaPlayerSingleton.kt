@@ -14,7 +14,7 @@ import kotlinx.coroutines.launch
 import java.io.File
 
 object MediaPlayerSingleton {
-    var mediaPlayer: MediaPlayer
+    private var mediaPlayer: MediaPlayer
     var currentPlayingSongId: Int = 0
     val playStatusLiveData = MutableLiveData<MusicPlayStausModel>()
     val  musicSeekBarProgressLiveData = MutableLiveData<MusicSeekBarProgress>()
@@ -50,10 +50,10 @@ object MediaPlayerSingleton {
             val file = File(url)
             if (file.exists()) {
                 val uri = Uri.fromFile(file)
-                if (currentPlayingSongId != songId && mediaPlayer.isPlaying()) {
+                if (currentPlayingSongId != songId && mediaPlayer.isPlaying) {
                     mediaPlayer.stop()
                     mediaPlayer = MediaPlayer.create(MyApplication.applicationContext(), uri)
-                } else if (!mediaPlayer.isPlaying() && currentPlayingSongId != songId) {
+                } else if (!mediaPlayer.isPlaying && currentPlayingSongId != songId) {
                     mediaPlayer = MediaPlayer.create(MyApplication.applicationContext(), uri)
                 }
                 mediaPlayer.start()
@@ -61,7 +61,7 @@ object MediaPlayerSingleton {
                 //musicSeekBarProgressLiveData.value = MusicSeekBarProgress(currentPlayingSongId, 0)
                 currentPlayingSongId = songId
                 updateSeekBar()
-                updateDataHolder(songId, true, false)
+                updateDataHolder(songId, isPlaying = true, isPaused = false)
                 setSongCompleteListener(songId)
             }
         }
@@ -69,7 +69,7 @@ object MediaPlayerSingleton {
 
     fun pauseSong() {
         playStatusLiveData.value = MusicPlayStausModel(currentPlayingSongId, currentPlayingSongId, 2)
-        updateDataHolder(currentPlayingSongId, isPlaying = false, isPaused = true)
+        this.updateDataHolder(currentPlayingSongId, isPlaying = false, isPaused = true)
         mediaPlayer.pause()
     }
 
@@ -102,15 +102,15 @@ object MediaPlayerSingleton {
             } else {
                 index = 0
             }
-            playSong(MyApplication.applicationContext().dataHoler.idList.get(index))
+            playSong(MyApplication.applicationContext().dataHoler.idList[index])
         }
     }
 
-    fun updateDataHolder(id: Int, isPlaying: Boolean, isPaused: Boolean) {
+    private fun updateDataHolder(id: Int, isPlaying: Boolean, isPaused: Boolean) {
         val aartiBean = MyApplication.applicationContext().dataHoler.hashMap[id]
         aartiBean?.isPlaying = isPlaying
         aartiBean?.isPaused = isPaused
-        MyApplication.applicationContext().dataHoler.hashMap.put(id, aartiBean)
+        MyApplication.applicationContext().dataHoler.hashMap[id] = aartiBean
     }
 
     @DelicateCoroutinesApi
