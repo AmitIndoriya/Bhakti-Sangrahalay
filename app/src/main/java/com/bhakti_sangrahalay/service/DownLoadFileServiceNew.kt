@@ -13,7 +13,6 @@ import com.bhakti_sangrahalay.repository.DataHoler
 import com.bhakti_sangrahalay.util.Utility
 import java.io.File
 import java.io.FileOutputStream
-import java.lang.NullPointerException
 import java.net.HttpURLConnection
 import java.net.URL
 import java.util.*
@@ -34,15 +33,16 @@ fun downLoadFile(songId: Int) {
 
 class DownLoadFileServiceNew : Service() {
     var canDownload: Boolean = true
+
     companion object {
         val downLoadStatusLiveData = MutableLiveData<DownLoadStatus>()
     }
 
     override fun onCreate() {
         super.onCreate()
-        downLoadFileServiceNew = this;
+        downLoadFileServiceNew = this
         dataHolder = MyApplication.applicationContext().dataHoler
-        downloadIdList = ArrayList<Int>();
+        downloadIdList = ArrayList<Int>()
     }
 
     override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
@@ -55,7 +55,7 @@ class DownLoadFileServiceNew : Service() {
         }
         if (canDownload && downloadIdList.size > 0) {
             canDownload = false
-            downLoadFile(downloadIdList.get(0))
+            downLoadFile(downloadIdList[0])
             Utility.printLog("Service-in")
         }
         return START_NOT_STICKY
@@ -89,69 +89,77 @@ class DownLoadFileServiceNew : Service() {
         }
 
         override fun doInBackground(vararg p0: Void?): Void? {
-             try {
-                 val url = URL(url)
-                 val c = url.openConnection() as HttpURLConnection
-                 c.requestMethod = "GET"
-                 c.connect()
-                 if (isSDCardPresent()) {
-                     apkStorage = File(Environment.getExternalStorageDirectory().toString() + "/aarti")
-                 }
-                 if (!apkStorage.exists()) {
-                     apkStorage.mkdir()
-                 }
-                 outputFile = File(apkStorage, fileName)
-                 val fos = FileOutputStream(outputFile)
-                 val inputStream = c.inputStream
-                 val buffer = ByteArray(1024)
-                 var total: Long = 0
-                 var len1 = 0
+            try {
+                val url = URL(url)
+                val c = url.openConnection() as HttpURLConnection
+                c.requestMethod = "GET"
+                c.connect()
+                if (isSDCardPresent()) {
+                    apkStorage = File(Environment.getExternalStorageDirectory().toString() + "/aarti")
+                }
+                if (!apkStorage.exists()) {
+                    apkStorage.mkdir()
+                }
+                outputFile = File(apkStorage, fileName)
+                val fos = FileOutputStream(outputFile)
+                val inputStream = c.inputStream
+                val buffer = ByteArray(1024)
+                var total: Long = 0
+                var len1: Int = 0
 
-                 while (inputStream.read(buffer).also { len1 = it } != -1) {
-                     total += len1.toLong()
-                     publishProgress((total * 100 / fileSize).toInt())
-                     //publishProgress((int) total);
-                     fos.write(buffer, 0, len1) //Write new file
-                 }
-                 fos.close()
-                 inputStream.close()
-             } catch (exception: Exception) {
-                 val aartiBean = dataHolder.hashMap.get(id)
+                while (inputStream.read(buffer).also { len1 = it } != -1) {
+                    total += len1.toLong()
+                    publishProgress((total * 100 / fileSize).toInt())
+                    //publishProgress((int) total);
+                    fos.write(buffer, 0, len1) //Write new file
+                }
+                fos.close()
+                inputStream.close()
+            } catch (exception: Exception) {
+                /* val aartiBean = dataHolder.hashMap.get(id)
                  aartiBean?.progressStatus = -1
                  aartiBean?.isDownLoaded = false
                  aartiBean?.isDownLoading = false
                  dataHolder.updateHashMap(id, aartiBean)
                  downLoadStatusLiveData.postValue(DownLoadStatus(id, 100))
-                 downLoadFileServiceNew.stopSelf()
-             }
-           /* try {
-                Thread.sleep(500);
-                publishProgress(10);
-                Thread.sleep(500);
-                publishProgress(20);
-                Thread.sleep(500);
-                publishProgress(30);
-                Thread.sleep(500);
-                publishProgress(40);
-                Thread.sleep(500);
-                publishProgress(50);
-                Thread.sleep(500);
-                throw NullPointerException()
-                publishProgress(60);
-                Thread.sleep(500);
-                publishProgress(70);
-                Thread.sleep(500);
-                publishProgress(80);
-                Thread.sleep(500);
-                publishProgress(90);
-                Thread.sleep(500);
-                publishProgress(100);
-                Thread.sleep(500);
-                publishProgress(110);
-            } catch (e: Exception) {
-                Utility.printLog("Exception")
-                downLoadStatusLiveData.postValue(DownLoadStatus(id, -1))
-               // downLoadFileServiceNew.stopSelf()
+                 downLoadFileServiceNew.stopSelf()*/
+            }
+            /* try {
+                 Thread.sleep(500);
+                 publishProgress(10);
+                 Thread.sleep(500);
+                 publishProgress(20);
+                 Thread.sleep(500);
+                 publishProgress(30);
+                 Thread.sleep(500);
+                 publishProgress(40);
+                 Thread.sleep(500);
+                 publishProgress(50);
+                 Thread.sleep(500);
+                 throw NullPointerException()
+                 publishProgress(60);
+                 Thread.sleep(500);
+                 publishProgress(70);
+                 Thread.sleep(500);
+                 publishProgress(80);
+                 Thread.sleep(500);
+                 publishProgress(90);
+                 Thread.sleep(500);
+                 publishProgress(100);
+                 Thread.sleep(500);
+                 publishProgress(110);
+                 Utility.printLog("doinbackground")
+             } catch (e: Exception) {
+                *//* *//**//*  Utility.printLog("Exception")
+                  downLoadStatusLiveData.postValue(DownLoadStatus(id, -1))*//**//*
+                // downLoadFileServiceNew.stopSelf()
+                val aartiBean = dataHolder.hashMap.get(id)
+                aartiBean?.progressStatus = -1
+                aartiBean?.isDownLoaded = false
+                aartiBean?.isDownLoading = false
+                dataHolder.updateHashMap(id, aartiBean)
+                downLoadStatusLiveData.postValue(DownLoadStatus(id, 100))
+                downLoadFileServiceNew.stopSelf()*//*
             }*/
             return null
         }
@@ -165,6 +173,7 @@ class DownLoadFileServiceNew : Service() {
             dataHolder.updateHashMap(id, aartiBean)
             downLoadStatusLiveData.postValue(DownLoadStatus(id, 100))
             downloadIdList.removeAt(0)
+            Utility.printLog("onPostExecute")
             if (downloadIdList.size > 0) {
                 downLoadFile(downloadIdList.get(0))
             } else {
