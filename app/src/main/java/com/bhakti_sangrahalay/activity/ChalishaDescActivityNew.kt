@@ -43,7 +43,11 @@ class ChalishaDescActivityNew : BaseActivity() {
         viewPager = findViewById(R.id.view_pager)
         var viewPagerFragmentAdapter = ViewPagerFragmentAdapter(supportFragmentManager, getFragList(imageList))
         viewPager.setAdapter(viewPagerFragmentAdapter)
-        viewPager.setCurrentItem(0)
+        var position = 0
+        if (intent != null) {
+            position = intent.getIntExtra("fragNum", 0)
+        }
+        viewPager.setCurrentItem(position)
         viewPager.setOffscreenPageLimit(1)
     }
 

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618246315736",
+    "project_id": "bhakti-sangrahalay",
+    "storage_bucket": "bhakti-sangrahalay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618246315736:android:e8e8b57052486248e381ad",
+        "android_client_info": {
+          "package_name": "com.bhakti_sangrahalay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618246315736-5ega3k0mfikgtrgiqhkbjpgjeab2uo34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPffm4WlkWCq3GdFavYjf3bRGEfXrgl5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618246315736-5ega3k0mfikgtrgiqhkbjpgjeab2uo34.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
